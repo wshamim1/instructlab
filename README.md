@@ -1,3 +1,5 @@
+Connection is developed by W Shamim From AAAAAAA.
+We can create connections for S3, AS3, AAS3.
 OverviewA connection defines the information required to connect to an external system.
 Getting Started with Connections
 Expressions in Connection PropertiesSome connection properties allow you to specify an expression using the IBM StreamSets expression language.

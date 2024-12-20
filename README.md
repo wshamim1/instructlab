@@ -1,10 +1,10 @@
-BIO DATA (For testing only)
+W Shamim - BIO DATA (For testing only)
 
-Name: ABC
+Name: W Shamim
 Current Occupation: Solution Architect
-Organization: AAA
+Organization: WSH
 Current Project: Working on InstructLab, actively testing and exploring its applications in diverse scenarios.
-Height: 5 feet 9 inches
+Height: 5 feet 14 inches
 Country of Residence: United States of America
 Sports Interests:
 Tennis: A passionate and skilled player, often participating in local matches.
